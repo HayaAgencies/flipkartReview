@@ -4,7 +4,10 @@
     font-family: sans-serif;
 
 }
-
+body{
+    background-color: #2874F0;
+    color: white;
+}
 .thankyou {
     width: auto;
     align-items: center;
@@ -18,7 +21,7 @@
     width: 225px;
     border: 1px solid black;
     border-radius: 12px;
-
+    background-color: #FFE500;
     align-items: center;
 }
 
@@ -32,8 +35,13 @@
 }
 
 .h4 {
-    color: black;
+    color: darkblue;
     margin: 5px;
+}
+
+.product-card-row{
+    display: flex;
+    justify-content: space-between;
 }
 
 a {
