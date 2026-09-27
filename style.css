@@ -109,6 +109,9 @@ select {
 .TEA-CARDS{
     display: none;
 }
+.DAIRY-CARDS{
+    display: none;
+}
 
 @media screen and (min-width: 800px) {
     .productsfull {
