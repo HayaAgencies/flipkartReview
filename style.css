@@ -7,7 +7,7 @@
 
 body {
     /* background-color: #2874F0; */
-    background-color: #FFE500;
+    background-color: #e6e1e1;
     color: black;
 }
 
@@ -16,7 +16,7 @@ h3 {
     width: auto;
     display: flex;
     justify-content: center;
-    color: white;
+    color: black;
 }
 
 .thankyou {
@@ -32,7 +32,7 @@ h3 {
     width: 275px;
     border: 1px solid black;
     border-radius: 12px;
-    background-color: #2874F0;
+    background-color: #ffff;
     /* background-color: #FFE500; */
     align-items: center;
 }
@@ -51,7 +51,7 @@ h3 {
 }
 
 .h4 {
-    color: white;
+    color: black;
     margin: 5px;
 }
 
@@ -91,15 +91,15 @@ select {
     padding: 1rem;
     border: none;
     border-radius: 1rem;
-    background-color: #2874F0;
+    background-color: #fff;
     line-height: 1.6;
 
     &:open{
-        background-color: #2874F0;
+        background-color: #fff;
     }
 
     option{
-        background-color: #FFE500;
+        background-color: #a5a5a5;
     }
 }
 
